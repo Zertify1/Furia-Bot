@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Official Project7 Bot"];
+const statusMessages = ["Official FÚRIA Bot"];
 
 
 let currentIndex = 0;
